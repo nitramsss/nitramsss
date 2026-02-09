@@ -4,18 +4,18 @@
 <h4><code>Python • JavaScript • DRF • React</code></h4>
 
 <details>
-  <summary>🤝 Collaboration: </summary>
+  <summary>🤝 Collaboration</summary>
   <blockquote>
     I’m open to collaborating on:
     <ul>
       <li>Beginner to intermediate open-source projects</li>
-      <li>Learning-focused projects (backend, APIs, systems)</li>
+      <li>Learning-focused projects</li>
       <li>Small but meaningful software ideas</li>
     </ul> 
   </blockquote>
 </details>
 <details>
-  <summary>⚡ Fun Fact:</summary>
+  <summary>⚡ Fun Fact</summary>
   <blockquote>I’ve spent more time on Stack Overflow and ChatGPT than on social media</blockquote>
 </details>
 
