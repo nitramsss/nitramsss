@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3>Fitz Martin</h3>
+<p><i>Dev in progress • Improving one commit at a time</i></p>
+<hr/>
+<h4><code>Python • JavaScript • DRF • React</code></h4>
 
-<!--
-**nitramsss/nitramsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>🤝 Collaboration: </summary>
+  <blockquote>
+    I’m open to collaborating on:
+    <ul>
+      <li>Beginner to intermediate open-source projects</li>
+      <li>Learning-focused projects (backend, APIs, systems)</li>
+      <li>Small but meaningful software ideas</li>
+    </ul> 
+  </blockquote>
+</details>
+<details>
+  <summary>⚡ Fun Fact:</summary>
+  <blockquote>I’ve spent more time on Stack Overflow and ChatGPT than on social media</blockquote>
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
