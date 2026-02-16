@@ -18,4 +18,9 @@
   <summary>⚡ Fun Fact</summary>
   <blockquote>I’ve spent more time on Stack Overflow and ChatGPT than on social media</blockquote>
 </details>
-
+<hr/>
+<p float="left" align="center">
+  <img src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif" width="250" />
+  <img src="https://media.tenor.com/ADP4nszb5AcAAAAi/shigure-ui-dance.gif" width="250" />
+  <img src="https://media.tenor.com/NJeAh5aFOjsAAAAi/shigure-ui-dance.gif" width="250" />
+</p>
