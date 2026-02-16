@@ -20,7 +20,7 @@
 </details>
 <hr/>
 <p float="left" align="center">
-  <img src="https://media.tenor.com/cyORI7kwShQAAAAi/shigure-ui-dance.gif" width="250" />
-  <img src="https://media.tenor.com/ADP4nszb5AcAAAAi/shigure-ui-dance.gif" width="250" />
-  <img src="https://media.tenor.com/NJeAh5aFOjsAAAAi/shigure-ui-dance.gif" width="250" />
+  <img https://media1.tenor.com/m/6i191Z6kVzIAAAAC/rat-dance-rat.gif" width="250" />
+  <img https://media1.tenor.com/m/6i191Z6kVzIAAAAC/rat-dance-rat.gif" width="250" />
+  <img https://media1.tenor.com/m/6i191Z6kVzIAAAAC/rat-dance-rat.gif" width="250" />
 </p>
