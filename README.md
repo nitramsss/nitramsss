@@ -21,6 +21,8 @@
 <hr/>
 <p float="left" align="center">
   <a href="#"><img src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif" width="250" /></a>
-  <a href="#"><img src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif" width="250" /></a>
-  <a href="#"><img src="https://media.tenor.com/V9XG4Lp_SN0AAAAj/rat-dance.gif" width="250" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nitramsss&theme=whatsapp-dark2&hide_border=true&border_radius=10&card_height=200&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?nitramsss=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
