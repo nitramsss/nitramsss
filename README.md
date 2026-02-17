@@ -24,5 +24,4 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nitramsss&theme=whatsapp-dark2&hide_border=true&border_radius=10&card_height=200&hide_total_contributions=true" alt="GitHub Streak" /></a>
 </p>
 
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=nitramsss&theme=gruvbox)](https://github.com/nitramsss/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=nitramsss&theme=gruvbox)](https://github.com/nitramsss/github-profile-trophy) -->
