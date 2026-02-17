@@ -25,4 +25,4 @@
 </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nitramsss&theme=onedark)](https://github.com/nitramsss/github-profile-trophy)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=nitramsss&theme=gruvbox)](https://github.com/nitramsss/github-profile-trophy)
