@@ -25,13 +25,13 @@
 <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/images/dark.svg"
+      srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/images/light.svg"
+      srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/light.svg"
     />
-    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/nitramsss/nitramsss/main/images/light.svg" />
+    <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/nitramsss/nitramsss/main/light.svg" />
   </picture>
 </p>
 
