@@ -33,9 +33,9 @@
 <hr/>
 <!---  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nitramsss&theme=dark" alt="GitHub Streak" /></a> -->
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/dark.svg" />
-	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/light.svg" />
-	<img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/nitramsss/nitramsss/main/light.svg" />
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/assets/dark.svg" />
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitramsss/nitramsss/main/assets/light.svg" />
+	<img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/nitramsss/nitramsss/main/assets/light.svg" />
 </picture>
 
 <!-- [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=nitramsss&theme=gruvbox)](https://github.com/nitramsss/github-profile-trophy) -->
