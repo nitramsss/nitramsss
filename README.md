@@ -8,7 +8,7 @@
 	</h2>
 </em>
 
-<p><i>Dev in progress • Improving one commit at a time</i></p>
+<p><i>Improving one commit at a time</i></p>
 <hr/>
 <h4><code>Python • JavaScript • DRF • React</code></h4>
 
